@@ -1,1 +1,2 @@
 sum of 1 nd 1 is 2
+sum of 2 nd 3 is 5
